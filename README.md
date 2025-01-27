@@ -11,7 +11,7 @@
 - Implementing **cybersecurity models** for enterprise clients.  
 - Leveraging tools like **Kubernetes, Docker**, and **Cloud Platforms** (AWS, GCP).  
 
-🌱 Currently deepening my expertise in **Python backend development** and **Cloud Identity Systems**, focusing on creating scalable and secure solutions.  
+🌱 Currently deepening my expertise in **Python, backend development** and **Cloud Identity Systems**, focusing on creating scalable and secure solutions.  
 
 👯 Open to collaborating on **open-source projects** or innovative ideas in web development, algorithms, and automation.  
 
