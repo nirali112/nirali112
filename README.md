@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Nirali Mehta  
 **Software Developer | Full Stack & Frontend Developer | Master's Student**  
 
-👩‍💻 With **almost 3 years of experience** in software development, I specialize in building dynamic, scalable, and user-friendly web applications. My expertise includes **JavaScript, TypeScript, Python**, and frameworks like **React, Angular**, and **Node.js**, alongside strong database management skills with ** Google Cloud Firebase, MySQL, and MongoDB**.  
+👩‍💻 With **almost 3 years of experience** in software development, I specialize in building dynamic, scalable, and user-friendly web applications. My expertise includes **JavaScript, TypeScript, Python**, and frameworks like **React, Angular**, and **Node.js**, alongside strong database management skills with **Google Cloud Firebase, MySQL, and MongoDB**.  
 
 🎓 Currently pursuing a **Master of Engineering in Computer Science** at **Oregon State University** (graduating in March 2025), I’ve further enhanced my technical skills with courses in **Algorithms, Cloud Application Development, and Computer Graphics**.  
 
