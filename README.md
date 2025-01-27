@@ -20,8 +20,8 @@
 📫 Reach me at **niralimehta997@gmail.com** or connect on [LinkedIn](https://www.linkedin.com/in/niralimehta01/).  
 
 ### A Bit More About Me:  
-🎨 **Passion for Learning**: From leading web projects to exploring complex algorithms, I’m always eager to grow.  
-🎾 **Hobbies**: Music lover and nature explorer.  
-🎯 **Fun Fact**: Secured 1st runner-up in a Frisbee competition—teamwork for the win!  
+📚 **Passion for Learning**: From leading web projects to exploring complex algorithms, I’m always eager to grow.  
+🌅 **Hobbies**: Music lover and nature explorer.  
+🥏 **Fun Fact**: Secured 1st runner-up in a Frisbee competition—teamwork for the win!  
 
 Let’s connect and create something impactful together! 🌟✨ 
