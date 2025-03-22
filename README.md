@@ -9,7 +9,7 @@
 - Developing **responsive and secure web applications** using modern frameworks.  
 - Optimizing **API performance** and creating **RESTful services**.  
 - Implementing **cybersecurity models** for enterprise clients.  
-- Leveraging tools like **Kubernetes, Docker**, and **Cloud Platforms** (AWS, GCP).  
+- Leveraging tools like **Kubernetes, Docker**, and **Cloud Platforms** (Azure, GCP).  
 
 🌱 Currently deepening my expertise in **Python, backend development** and **Cloud Identity Systems**, focusing on creating scalable and secure solutions.  
 
