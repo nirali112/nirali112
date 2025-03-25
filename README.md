@@ -3,7 +3,7 @@
 
 👩‍💻 With **almost 3 years of experience** in software development, I specialize in building dynamic, scalable, and user-friendly web applications. My expertise includes **JavaScript, TypeScript, Python**, and frameworks like **React, Angular**, and **Node.js**, alongside strong database management skills with **Google Cloud Firebase, MySQL, and MongoDB**.  
 
-🎓 Currently pursuing a **Master of Engineering in Computer Science** at **Oregon State University** (graduating in March 2025), I’ve further enhanced my technical skills with courses in **Algorithms, Cloud Application Development, and Computer Graphics**.  
+🎓 I recently graduated with a **Master of Engineering in Computer Science** from Oregon State University (March 2025), where I enhanced my technical skills with courses in **Algorithms, Cloud Application Development, and Computer Graphics**.  
 
 🌟 **Key Skills & Interests**:  
 - Developing **responsive and secure web applications** using modern frameworks.  
