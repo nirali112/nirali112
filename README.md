@@ -17,7 +17,7 @@
   
 🔍 Actively seeking full-time job opportunities in **software development, web development, backend systems, and cloud-based solutions.**
 
-📫 Reach me at **niralimehta997@gmail.com** or connect on [LinkedIn](https://www.linkedin.com/in/niralimehta1316/).  
+📫 Reach me at **niralimehta997@gmail.com** or connect on [LinkedIn](https://www.linkedin.com/in/niralimehta97/).  
 
 ### A Bit More About Me:  
 📚 **Passion for Learning**: From leading web projects to exploring complex algorithms, I’m always eager to grow.  
